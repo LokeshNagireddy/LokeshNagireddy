@@ -14,11 +14,11 @@
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LokeshNagireddy&label=Profile%20views&color=0e75b6&style=flat" alt="LokeshNagireddy" /> </p>
 
-- 🔭 I’m currently working on **Python** projects
+- 🔭 I’m currently working on **Containerization** projects
 
-- 🌱 I’m currently learning **Data Science, Web dev**
+- 🌱 I’m currently learning **Data Science, Devops**
 
-- 💬 Ask me about **DataScience,Web dev**
+- 💬 Ask me about **Devops, Containerization**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1PMkXtGcHn5rlswGQquLhRb8b9jmZ-L_8/view](https://drive.google.com/file/d/1PMkXtGcHn5rlswGQquLhRb8b9jmZ-L_8/view)
 <img class="align" align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
