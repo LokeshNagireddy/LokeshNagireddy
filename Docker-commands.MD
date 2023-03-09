@@ -22,6 +22,10 @@ docker ps
 ```
 docker ps -a
 ```
+* To display complete information on all columns of all running containers
+```
+docker ps --no-trunc
+```
 * To start the container
 ```
 docker start [container-ID]

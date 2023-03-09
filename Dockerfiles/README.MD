@@ -15,3 +15,9 @@ docker build -t [docker-hub-URL]/[your-username]/[image-name]:version .
 ```
 docker push [docker-hub-URL]/[your-username]/[image-name]:version
 ```
+
+### image in docker
+
+```
+image = base OS + application + packages
+```
