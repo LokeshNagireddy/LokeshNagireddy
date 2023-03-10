@@ -1,0 +1,4 @@
+FROM almalinux
+ENV AUTHOR="Lokesh"\
+    DURATION="22HRS"\
+    CURRENTLEARNING="DOCKER"
