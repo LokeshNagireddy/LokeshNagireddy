@@ -60,3 +60,7 @@ docker exec -it [container-id] bash
 ```
 * To come out of the nginx login
 CTRL + D
+
+* To know the details of an image (like port numbers, labels etc)
+
+docker inspect <image id>
