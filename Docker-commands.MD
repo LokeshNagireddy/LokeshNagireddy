@@ -64,3 +64,11 @@ CTRL + D
 * To know the details of an image (like port numbers, labels etc)
 
 docker inspect <image id>
+
+* To create docker volume
+
+docker volume create [volume name]
+
+* To Mount a volume
+
+docker run -d -v [volume name]:[mount path] -p 80:80 [image name]
