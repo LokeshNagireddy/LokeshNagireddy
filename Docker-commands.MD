@@ -72,3 +72,11 @@ docker volume create [volume name]
 * To Mount a volume
 
 docker run -d -v [volume name]:[mount path] -p 80:80 [image name]
+
+* To create docker network
+
+docker network create [network name]
+
+* connecting network to a container
+
+docker network connect [network name] [container name]
