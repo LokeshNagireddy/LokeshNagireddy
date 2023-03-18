@@ -1,3 +1,3 @@
 FROM almalinux
-RUN yum install ngix -y
+RUN yum install nginx -y
 ONBUILD ADD simple.txt /tmp/
