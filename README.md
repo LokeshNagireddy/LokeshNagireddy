@@ -14,11 +14,11 @@
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LokeshNagireddy&label=Profile%20views&color=0e75b6&style=flat" alt="LokeshNagireddy" /> </p>
 
-- 🔭 I’m currently working as **Senior Devops Engineer** on Azure Cloud
+- 🔭 I’m currently working as **Application Development Associate Manager**
 
-- 🌱 I’m currently exploring **AWS Devops**
+- 🌱 I’m currently exploring **Azure/AWS Multi-Cloud Architecture & Deployments**
 
-- 💬 Ask me about **container orchestration in Kubernetes**
+- 💬 Ask me about **Mainframes, Cloud, Agile and container orchestration in Kubernetes**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1MGnocpiqQrE8HtMArG-pNuaKaIUipAiL/view?usp=share_link](https://drive.google.com/file/d/1MGnocpiqQrE8HtMArG-pNuaKaIUipAiL/view?usp=share_link)
 <img class="align" align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
